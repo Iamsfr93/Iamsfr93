@@ -1,48 +1,76 @@
-# Hi, I'm Syed Fahad Rasheed 👋 
+Hi, I’m Syed Fahad Rasheed 👋
 
-### AI-Augmented Mobile Developer | MBA | Technical Strategist
+Junior Software Engineer | Java • Swift • SwiftUI | Backend & Mobile Development
 
-I bridge the gap between complex system architecture and user centric mobile experiences. Currently, I am specializing in **AI-integrated Mobile Development** in Canada, leveraging modern tools to accelerate the software lifecycle.
+I’m a Junior Software Developer based in Ontario, Canada, currently pursuing a Diploma in Mobile Developer Using AI at triOS College. I enjoy building backend services and native iOS applications while continuously improving my software engineering skills through hands-on projects.
 
----
+About Me
 
-### 🚀 The Triple Threat
+* 💻 Building Java backend and SwiftUI mobile applications
+* 📱 Passionate about iOS Development and Software Engineering
+* 🌱 Currently learning Spring Boot and advanced backend development
+* 🤝 Interested in collaborating on open-source and software development projects
+* 🎯 Seeking Junior Software Developer, Java Developer, Backend Developer, Software Engineer, and Junior iOS Developer opportunities
 
-- **Technical Core:** Engineering native apps with **Swift (iOS)** and **Kotlin/Java (Android)**.
-- **AI Multiplier:** Implementing AI-driven workflows (GitHub Copilot/Stub-coding) to increase development velocity.
-- **Business Strategy:** Leveraging an **MBA** to align technical roadmaps with business ROI and scalability.
+⸻
 
----
+Technical Skills
 
-### 🛠️ Tech Stack & Toolkit
+Programming Languages
 
-| Category | Technologies |
-| :--- | :--- |
-| **Mobile** | Swift, SwiftUI, Kotlin, Java, Android SDK, Xcode |
-| **AI Tools** | GitHub Copilot, Cursor, OpenAI API Integration |
-| **Backend** | Java, REST APIs, SQL, Spring Boot (Learning) |
-| **Design** | Figma, Adobe Creative Suite (XD, Photoshop, Illustrator) |
-| **DevOps** | Git, GitHub Actions, Linux Web Hosting |
+Java • Swift • JavaScript • SQL • HTML • CSS
 
----
+Mobile Development
 
-### 🧪 Featured Projects
+SwiftUI • MVVM • NavigationStack • Responsive UI Development
 
-#### 🎮 [Gym Battle - Java Logic Engine](https://github.com/Iamsfr93/gym-battle)
-- **Core:** Java, OOP Design Patterns, Sound API.
-- **Impact:** A terminal-based simulation demonstrating complex state management and entity-oriented logic.
+Backend Development
 
-#### 📱 [Mobile Capstone - (Your App Name)]
-- **Core:** Swift/Kotlin (Native).
-- **Impact:** [One sentence about what the app does].
+REST APIs • JSON • CRUD Applications • Object-Oriented Programming (OOP)
 
----
+Databases
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamsfr93&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamsfr93&layout=compact&theme=radical)
+PostgreSQL • SQL
 
----
+Developer Tools
 
-📫 **Connect with me:**
-[LinkedIn](https://www.linkedin.com/in/fahad-rasheed-syed-) | [Portfolio Site](https://msfr93.github.io)
+Git • GitHub • Xcode • IntelliJ IDEA • VS Code • Android Studio • Postman
+
+⸻
+
+Featured Projects
+
+🏋️ Apex Muscle
+
+A SwiftUI fitness application featuring workout tracking, BMI calculator, calorie calculator, nutrition planning, reusable components, and MVVM architecture.
+
+👨‍💼 Employee Management System
+
+A Java CRUD application demonstrating Object-Oriented Programming, Collections Framework, validation logic, and modular software design.
+
+🛒 Marketplace Application
+
+A SwiftUI marketplace application featuring reusable UI components, MVVM architecture, JSON integration, and responsive layouts.
+
+⚔️ Gym Battle
+
+A Java application demonstrating Object-Oriented Programming concepts, reusable architecture, modular design, and software engineering principles.
+
+⸻
+
+Currently Learning
+
+* Spring Boot
+* Backend Development
+* REST API Design
+* Software Architecture
+* Mobile Application Development
+
+⸻
+
+Let’s Connect
+
+* LinkedIn: linkedin.com/in/fahad-rasheed-syed-
+* GitHub: github.com/Iamsfr93
+
+I’m always open to connecting with software engineers, recruiters, and developers.
