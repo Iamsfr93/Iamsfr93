@@ -1,76 +1,129 @@
 Hi, I’m Syed Fahad Rasheed 👋
 
-Junior Software Engineer | Java • Swift • SwiftUI | Backend & Mobile Development
+Junior Software Engineer | iOS Developer (Swift & SwiftUI) | Java Backend Developer
 
-I’m a Junior Software Developer based in Ontario, Canada, currently pursuing a Diploma in Mobile Developer Using AI at triOS College. I enjoy building backend services and native iOS applications while continuously improving my software engineering skills through hands-on projects.
+I’m a Junior Software Engineer based in Ontario, Canada, currently pursuing a Diploma in Mobile Developer Using AI at triOS College.
+
+I build native iOS applications using Swift and SwiftUI, along with Java backend applications using Object-Oriented Programming, REST APIs, SQL, and modern software engineering practices.
+
+I’m actively seeking full-time opportunities as a:
+
+* 💻 Junior Software Engineer
+* 📱 Junior iOS Developer
+* ☕ Java Backend Developer
+
+⸻
 
 About Me
 
-* 💻 Building Java backend and SwiftUI mobile applications
+* 💻 Building native iOS and Java backend applications
 * 📱 Passionate about iOS Development and Software Engineering
-* 🌱 Currently learning Spring Boot and advanced backend development
-* 🤝 Interested in collaborating on open-source and software development projects
-* 🎯 Seeking Junior Software Developer, Java Developer, Backend Developer, Software Engineer, and Junior iOS Developer opportunities
+* 🌱 Currently learning Spring Boot, Software Architecture, and Design Patterns
+* 🤝 Open to collaborating on software development and open-source projects
+* 🇨🇦 Canadian Permanent Resident (No sponsorship required)
 
 ⸻
 
 Technical Skills
 
-Programming Languages
+💻 Programming Languages
 
 Java • Swift • JavaScript • SQL • HTML • CSS
 
-Mobile Development
+📱 Mobile Development
 
-SwiftUI • MVVM • NavigationStack • Responsive UI Development
+SwiftUI • MVVM • NavigationStack • SwiftData • Async/Await
 
-Backend Development
+⚙️ Backend Development
 
 REST APIs • JSON • CRUD Applications • Object-Oriented Programming (OOP)
 
-Databases
+🗄️ Databases
 
 PostgreSQL • SQL
 
-Developer Tools
+🛠️ Developer Tools
 
 Git • GitHub • Xcode • IntelliJ IDEA • VS Code • Android Studio • Postman
 
 ⸻
 
-Featured Projects
+Portfolio Projects
 
 🏋️ Apex Muscle
 
-A SwiftUI fitness application featuring workout tracking, BMI calculator, calorie calculator, nutrition planning, reusable components, and MVVM architecture.
+Swift • SwiftUI • MVVM
+
+* Workout Tracking
+* BMI & Calorie Calculator
+* Nutrition Planning
+* Reusable Components
+* NavigationStack
+
+⸻
+
+🐾 PawsClaws
+
+Swift • SwiftUI • MVVM
+
+* Pet Adoption App
+* Search & Filtering
+* Favorites
+* Swipe Actions
+* ShareLink
+* Context Menus
+
+⸻
+
+🖼️ Art Institute Explorer
+
+Swift • SwiftUI • REST API
+
+* Art Institute of Chicago API
+* JSON Decoding
+* Async Networking
+* Search
+* AsyncImage
+
+⸻
 
 👨‍💼 Employee Management System
 
-A Java CRUD application demonstrating Object-Oriented Programming, Collections Framework, validation logic, and modular software design.
+Java • OOP
 
-🛒 Marketplace Application
+* CRUD Operations
+* Collections Framework
+* Exception Handling
+* Input Validation
+* Modular Design
 
-A SwiftUI marketplace application featuring reusable UI components, MVVM architecture, JSON integration, and responsive layouts.
+⸻
 
 ⚔️ Gym Battle
 
-A Java application demonstrating Object-Oriented Programming concepts, reusable architecture, modular design, and software engineering principles.
+Java • OOP
+
+* Battle Simulation
+* Inheritance
+* Polymorphism
+* Encapsulation
+* Game Logic
 
 ⸻
 
 Currently Learning
 
-* Spring Boot
-* Backend Development
-* REST API Design
-* Software Architecture
-* Mobile Application Development
+* 🌱 Spring Boot
+* 🧪 Unit Testing (JUnit & XCTest)
+* 🚀 GitHub Actions (CI/CD)
+* 🏗️ Software Architecture
+* 🎯 Design Patterns
 
 ⸻
 
 Let’s Connect
 
-* LinkedIn: linkedin.com/in/fahad-rasheed-syed-
-* GitHub: github.com/Iamsfr93
+* 💼 LinkedIn: www.linkedin.com/in/fahad-rasheed-syed-
+* 💻 GitHub: github.com/Iamsfr93
 
-I’m always open to connecting with software engineers, recruiters, and developers.
+I’m always happy to connect with software engineers, recruiters, hiring managers, and fellow developers.
